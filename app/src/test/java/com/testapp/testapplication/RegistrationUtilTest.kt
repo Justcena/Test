@@ -1,6 +1,7 @@
 package com.testapp.testapplication
 
 import com.google.common.truth.Truth.assertThat
+import com.testapp.testapplication.test_custom_fun.RegistrationUtil
 import org.junit.Test
 
 

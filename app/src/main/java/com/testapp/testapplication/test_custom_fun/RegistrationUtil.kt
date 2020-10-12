@@ -1,4 +1,4 @@
-package com.testapp.testapplication
+package com.testapp.testapplication.test_custom_fun
 
 object RegistrationUtil {
 
