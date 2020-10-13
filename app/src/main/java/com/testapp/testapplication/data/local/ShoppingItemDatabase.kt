@@ -1,9 +1,12 @@
 package com.testapp.testapplication.data.local
 
+import androidx.room.Database
+import androidx.room.RoomDatabase
+
 @Database(
     entities = [ShoppingItem::class],
     version = 1
 )
-class ShoppingItemDatabase : RoomDatabase() {
+abstract class ShoppingItemDatabase : RoomDatabase() {
     abstract fun shoppingDao(): ShoppingDao
 }
