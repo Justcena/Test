@@ -1,4 +1,4 @@
-package com.testapp.testapplication
+package com.testapp.testapplication.other
 
 import android.content.Context
 

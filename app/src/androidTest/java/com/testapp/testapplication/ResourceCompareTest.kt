@@ -3,6 +3,7 @@ package com.testapp.testapplication
 import android.content.Context
 import androidx.test.core.app.ApplicationProvider
 import com.google.common.truth.Truth.assertThat
+import com.testapp.testapplication.other.ResourceCompare
 import org.junit.After
 import org.junit.Before
 import org.junit.Test

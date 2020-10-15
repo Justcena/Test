@@ -2,7 +2,7 @@ package com.testapp.testapplication.repositories
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.testapp.testapplication.constants.Resource
+import com.testapp.testapplication.other.Resource
 import com.testapp.testapplication.data.local.ShoppingItem
 import com.testapp.testapplication.data.remote.responses.ImageResponse
 
